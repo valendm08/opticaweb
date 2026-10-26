@@ -1,0 +1,13 @@
+/* Apple Design — Font stacks (adapted from skill apple-design assets/fonts.css)
+ * SF Pro is native on Apple devices; on other platforms the system stack
+ * (Segoe UI / Roboto / Helvetica) takes over, keeping the geometric look.
+ * The skill's optional webfont subsets are not shipped with this page.
+ */
+
+body {
+  font-family: "SF Pro Text", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+}
